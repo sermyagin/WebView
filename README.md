@@ -1,2 +1,2 @@
 # WebView
- Display site in the application for Android.
+Display site in the application for Android.
